@@ -1,6 +1,6 @@
 # Javascript-expenses-manager
 
-JavaScript tool to manager your incomes and expenses using your desktop.
+A sleek and efficient JavaScript tool to manage your income and expenses seamlessly on your desktop.
 
 
 ## Project overview
